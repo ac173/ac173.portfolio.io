@@ -1,7 +1,7 @@
 # ac173.portfolio.io
 <!DOCTYPE html>
 <html>
-  <head>
+  /*<head>
     <title>Kate Curry Portfolio</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +21,7 @@
   </head>
 <body class="w3-black">
 <!-- change "w3-grey" from "w3-black"-->
-
+*/
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
@@ -65,7 +65,7 @@
     </p>
     <h3 class="w3-padding-20 w3-text-light-grey">My Projects</h3>
     <p class="w3-padding-20 w3-text-light-grey">Python Reseach Project:</p>
-    <p class="w3-padding-20 w3-text-light-grey">My partner and I were taksed with extracting data
+    <p class="w3-padding-20 w3-text-light-grey">My partner and I were tasked with extracting data
     into an Excel sheet from a CDC survey dataset, and finding a correlation between two of the survey
     questions. To find the correlation, we imported all of the data into Python and used bar graphs, heat maps,
     and pie charts to see which answers had correlation from the survey.</p>
