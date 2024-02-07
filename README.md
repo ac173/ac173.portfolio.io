@@ -1,7 +1,7 @@
 # ac173.portfolio.io
 <!DOCTYPE html>
 <html>
-  /*<head>
+  <!<head>
     <title>Kate Curry Portfolio</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +21,7 @@
   </head>
 <body class="w3-black">
 <!-- change "w3-grey" from "w3-black"-->
-*/
+!>
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
